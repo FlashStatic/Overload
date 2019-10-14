@@ -1,0 +1,24 @@
+{
+  "name": "Blaster Dracomatrix - Pyrocessor",
+  "number": "99999999",
+  "is_illegal": false,
+  "text": "This monster's type becomes dragon while it is on the field or in the grave. When this monster is normal or special summoned, you can special summon 1 level 4 or lower \"Dracomatrix"\ monster from your hand. If this card is sent to the grave, you can add 1 \"Dracomatrix"\ monster from your deck to your hand. You can only use each effect of \"Blaster Dracomatrix Pyrocessor"\ once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Cyberse",
+  "attack": "1800",
+  "defense": "1200",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}
